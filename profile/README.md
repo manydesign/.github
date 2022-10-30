@@ -5,7 +5,6 @@
 <h3 align="center">
   <b><a href="https://guoweimanydesign.wixsite.com/manydesign?utm_source=github&utm_medium=social&utm_content=website&utm_campaign=null&utm_term=website">Contact US
 </a></b>
-  
  •
  <a href="https://guoweimanydesign.wixsite.com/manydesign?utm_source=github&utm_medium=social&utm_content=website&utm_campaign=null&utm_term=website">Website</a>
   
